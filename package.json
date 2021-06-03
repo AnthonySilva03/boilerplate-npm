@@ -9,7 +9,7 @@
 		"start": "node server.js"
 	},
 	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"type": "github",
+		"url": "https://github.com/AnthonySilva03/boilerplate-npm.git"
 	}
 }
